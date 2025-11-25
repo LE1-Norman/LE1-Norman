@@ -1,3 +1,1 @@
-**Junior Machine Learning Engineer and Backend Developer exploring deep learning, 
-neural networks, and MLOps. Passionate about AI systems that transform data 
-into intelligent applications with scalable, production-ready architecture.**
+## **Junior Machine Learning Engineer and Backend Developer exploring deep learning, neural networks, and MLOps. Passionate about AI systems that transform data into intelligent applications with scalable, production-ready architecture.**
